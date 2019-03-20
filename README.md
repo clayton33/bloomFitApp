@@ -1,5 +1,7 @@
 # Satellite derived Chlorophyll data visualization
+
 UNDER DEVELOPMENT
+
 This is a R Shiny application that has been developed to visualize
 satellite derived chlorophyll data for the pre-defined boxes
 for each dfo region involved in the atlantic zone monitoring program.
@@ -13,6 +15,10 @@ methods.
 1. Install [R](www.r-project.org) and [RStudio](www.rstudio.com)
 
 2. Download the Shiny app code from this repository, either through direct download, using Github Desktop, or by typing:
+
+```
+$ git clone https://github.com/clayton33/bloomFitApp.git
+```
 
 in a terminal.
 
