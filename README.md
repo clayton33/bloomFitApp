@@ -37,7 +37,7 @@ install.packages(c('shiny','shinyWidgets','oce','ocedata', 'quantreg'))
 clicking "Run App" at the top of the code editor.
 
 5. Once the app is running, select the satellite, region,
-box, and year from the pull down menus, and click '' to load
+box, and year from the pull down menus, and click 'Run' to load
 the data for those defined variables. The user can then play
 with methods to clean up the data and various methods to infer
 spring bloom parameters.
