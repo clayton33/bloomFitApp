@@ -38,5 +38,4 @@ vignettes/*.pdf
 *.knit.md
 
 # Downloaded data files
-01_makeRdaForSubregions.R
 .Rproj.user
